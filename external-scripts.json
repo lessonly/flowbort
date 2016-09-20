@@ -3,5 +3,6 @@
   "hubot-github-assignments",
   "hubot-group-alias",
   "hubot-star-wars",
-  "hubot-doxen"
+  "hubot-doxen",
+  "hubot-standup-alarm"
 ]
