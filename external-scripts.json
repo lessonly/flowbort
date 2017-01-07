@@ -4,5 +4,6 @@
   "hubot-group-alias",
   "hubot-star-wars",
   "hubot-doxen",
-  "hubot-standup-alarm"
+  "hubot-standup-alarm",
+  "hubot-voting"
 ]

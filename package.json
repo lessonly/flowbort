@@ -34,6 +34,7 @@
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-standup-alarm": "^0.1.0",
     "hubot-star-wars": "^0.2.0",
+    "hubot-voting": "^1.0.0",
     "jake": "latest",
     "lodash": ">= 3.10.1",
     "moment": ">= 2.10.6",
